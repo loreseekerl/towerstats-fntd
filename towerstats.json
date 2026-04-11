@@ -697,7 +697,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
-        "PlacePrice": 10000,
+        "PlacePrice": 7000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -709,26 +709,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 500,
+                "Damage": 615,
                 "Cooldown": 7
             },
             {
-                "Price": 15000,
+                "Price": 10000,
                 "Range": 35,
-                "Damage": 600,
-                "Cooldown": 6
+                "Damage": 850,
+                "Cooldown": 5
+            },
+            {
+                "Price": 15000,
+                "Range": 40,
+                "Damage": 1000,
+                "Cooldown": 4
             },
             {
                 "Price": 20000,
-                "Range": 40,
-                "Damage": 700,
-                "Cooldown": 5.5
-            },
-            {
-                "Price": 25000,
                 "Range": 45,
-                "Damage": 800,
-                "Cooldown": 5
+                "Damage": 1500,
+                "Cooldown": 3
             }
         ]
     },
