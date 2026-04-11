@@ -390,7 +390,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
-        "PlacePrice": 25000,
+        "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -407,19 +407,19 @@
             {
                 "Price": 35000,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 40,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 20,
-                "Damage": 65,
+                "Damage": 80,
                 "Cooldown": 0.05
             }
         ]
@@ -896,7 +896,7 @@
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -912,20 +912,20 @@
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 30,
+                "Damage": 50,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 31,
-                "Cooldown": 0.5
+                "Damage": 75,
+                "Cooldown": 0.4
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 32,
-                "Cooldown": 0.4
+                "Damage": 100,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -1764,7 +1764,7 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
-        "PlacePrice": 2000,
+        "PlacePrice": 1000,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
@@ -1799,7 +1799,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.5
+                "Slow": 0.3
             }
         ]
     },
@@ -2005,7 +2005,7 @@
         "Image": "rbxassetid://18364281117",
         "Rarity": "Rare",
         "PlacePrice": 800,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2034,8 +2034,8 @@
             {
                 "Price": 2000,
                 "Range": 45,
-                "Damage": 250,
-                "Cooldown": 2
+                "Damage": 400,
+                "Cooldown": 1.5
             }
         ]
     },
