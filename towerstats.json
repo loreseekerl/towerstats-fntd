@@ -2039,6 +2039,45 @@
             }
         ]
     },
+    "Rad Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://71891882570799",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 70,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2000,
+                "Range": 19,
+                "Damage": 120,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 4500,
+                "Range": 30,
+                "Damage": 600,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
