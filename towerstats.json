@@ -39,7 +39,7 @@
         ]
     },
     "Broken Foxy": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://84798593725788",
         "Rarity": "Secret",
         "PlacePrice": 850,
@@ -53,27 +53,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 20,
                 "Damage": 90,
-                "Cooldown": 1
+                "Cooldown": 2
             },
             {
                 "Price": 1500,
-                "Range": 15,
+                "Range": 22,
                 "Damage": 110,
-                "Cooldown": 1
+                "Cooldown": 1.5
             },
             {
                 "Price": 2500,
-                "Range": 17,
+                "Range": 25,
                 "Damage": 150,
-                "Cooldown": 0.8
+                "Cooldown": 1.2
             },
             {
                 "Price": 4000,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 300,
-                "Cooldown": 0.75
+                "Cooldown": 1
             }
         ]
     },
