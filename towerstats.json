@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Broken Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://125924289856568",
+        "Rarity": "Secret",
+        "PlacePrice": 850,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 90,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 110,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 17,
+                "Damage": 150,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    },
 "Celebration Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://92460335555494",
