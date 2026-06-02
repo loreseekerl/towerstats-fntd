@@ -1043,9 +1043,8 @@
                 "Cooldown": 0.8
             }
         ]
-    }
-},
-"Patriot Freddy": {
+    },
+    "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
         "Rarity": "Secret",
@@ -1084,4 +1083,3 @@
         ]
     }
 }
-
