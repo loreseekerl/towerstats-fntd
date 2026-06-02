@@ -1044,4 +1044,43 @@
             }
         ]
     }
+},
+"Patriot Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18161347460",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 3
+            },
+            {
+                "Price": 800,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 1250,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 1600,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 2.4
+            }
+        ]
+    }
 }
