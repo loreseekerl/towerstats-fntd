@@ -1120,6 +1120,315 @@
             }
         ]
     },
+        "Summer Toy Bonnie": {
+        "Type": "Single Slow",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Rare",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 20,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 25,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3500,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+        "Hawaii Endo 02": {
+        "Type": "Support",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Epic",
+        "PlacePrice": 1200,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16.5,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 2400,
+                "Range": 16.5,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 4500,
+                "Range": 16.5,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 7000,
+                "Range": 16.5,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            }
+        ]
+    },
+        "Coco Boy": {
+        "Type": "Explosion Splash",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Mythic",
+        "PlacePrice": 6000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 225,
+                "Cooldown": 3
+            },
+            {
+                "Price": 8000,
+                "Range": 15,
+                "Damage": 275,
+                "Cooldown": 3
+            },
+            {
+                "Price": 12000,
+                "Range": 18,
+                "Damage": 325,
+                "Cooldown": 3
+            },
+            {
+                "Price": 18000,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Seven Seas Foxy": {
+        "Type": "Linear Pierce",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 800,
+                "Cooldown": 3.4
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 1100,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 1350,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Leviathan Mangle": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Algae Fredbear": {
+        "Type": "Single",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2500,
+                "Range": 22,
+                "Damage": 375,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 4000,
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 650,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Rad Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 150,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1500,
+                "Range": 35,
+                "Damage": 250,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 4500,
+                "Range": 40,
+                "Damage": 450,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5000,
+                "Range": 45,
+                "Damage": 500,
+                "Cooldown": 2
+            }
+        ]
+    },
+        "Vendor Toy Chica": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://110802436897570",
+        "Rarity": "Mythic",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 200,
+                "Cooldown": 5
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 275,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://82733365161376",
