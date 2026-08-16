@@ -2007,7 +2007,7 @@
     "Spring Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 1000,
         "Max": 2,
         "hitboxOffset": {
@@ -2022,28 +2022,28 @@
                 "Range": 25,
                 "Damage": 25,
                 "Cooldown": 4,
-                "DamageBoost": 1.2
+                "DamageBoost": 1.1
             },
             {
                 "Price": 1500,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.25
+                "DamageBoost": 1.15
             },
             {
                 "Price": 2000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.30
+                "DamageBoost": 1.2
             },
             {
                 "Price": 2500,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.35
+                "DamageBoost": 1.25
             }
         ]
     },
