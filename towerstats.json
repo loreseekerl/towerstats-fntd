@@ -2260,7 +2260,7 @@
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0,
+        "Offset": 0.5,
         "Upgrades": [
             {
                 "Price": 0,
