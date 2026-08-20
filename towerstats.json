@@ -252,7 +252,7 @@
     },
     "Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16620268084",
+        "Image": "rbxassetid://97255645904880",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
         "Max": 4,
@@ -266,26 +266,26 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 10,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 15000,
-                "Range": 20,
-                "Damage": 15,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 25000,
-                "Range": 23,
                 "Damage": 20,
                 "Cooldown": 0.05
             },
             {
-                "Price": 35000,
-                "Range": 26,
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 21,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 6900,
+                "Range": 23,
                 "Damage": 25,
                 "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 26,
+                "Damage": 30,
+                "Cooldown": 0.03
             }
         ]
     },
