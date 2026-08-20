@@ -1297,7 +1297,7 @@
         "Type": "Single Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
-        "PlacePrice": 800,
+        "PlacePrice": 550,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1966,7 +1966,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
-        "PlacePrice": 800,
+        "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1977,26 +1977,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 150,
+                "Cooldown": 1.5
             },
             {
                 "Price": 1400,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 175,
                 "Cooldown": 1
             },
             {
                 "Price": 1800,
                 "Range": 22,
-                "Damage": 160,
+                "Damage": 200,
                 "Cooldown": 1
             },
             {
                 "Price": 2400,
                 "Range": 25,
-                "Damage": 250,
-                "Cooldown": 1
+                "Damage": 300,
+                "Cooldown": 0.75
             }
         ]
     },
