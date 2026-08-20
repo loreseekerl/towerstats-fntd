@@ -211,6 +211,45 @@
             }
         ]
     },
+    "Malfunction Freddy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://109715900402303",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1111,
+        "Offset": 0.65,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 11,
+                "Damage": 700,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 850,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3500,
+                "Range": 16,
+                "Damage": 1000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
