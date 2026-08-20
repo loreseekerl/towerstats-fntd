@@ -174,7 +174,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://73610842988344",
         "Rarity": "Rare",
         "PlacePrice": 450,
         "Offset": 0.65,
@@ -252,7 +252,7 @@
     },
     "Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://97255645904880",
+        "Image": "rbxassetid://100275016552136",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
         "Max": 4,
