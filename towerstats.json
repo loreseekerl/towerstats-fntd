@@ -1719,7 +1719,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 8900,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1757,7 +1757,7 @@
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
-        "PlacePrice": 7500,
+        "PlacePrice": 2500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1769,25 +1769,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 600,
-                "Cooldown": 4
+                "Cooldown": 3
+            },
+            {
+                "Price": 5000,
+                "Range": 18,
+                "Damage": 700,
+                "Cooldown": 2
             },
             {
                 "Price": 10000,
-                "Range": 18,
-                "Damage": 700,
-                "Cooldown": 3.5
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 2
             },
             {
                 "Price": 15000,
-                "Range": 22,
-                "Damage": 800,
-                "Cooldown": 3
-            },
-            {
-                "Price": 20000,
                 "Range": 25,
                 "Damage": 1000,
-                "Cooldown": 3
+                "Cooldown": 1.75
             }
         ]
     },
@@ -1795,7 +1795,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
-        "PlacePrice": 3000,
+        "PlacePrice": 5000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1807,34 +1807,34 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 200,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 4000,
-                "Range": 18,
-                "Damage": 300,
-                "Cooldown": 1.25
+                "Cooldown": 1
             },
             {
                 "Price": 6000,
+                "Range": 18,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8000,
                 "Range": 20,
                 "Damage": 400,
-                "Cooldown": 1.25
+                "Cooldown": 1
             },
             {
                 "Price": 9000,
-                "Range": 20,
-                "Damage": 550,
-                "Cooldown": 1
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 0.87
             }
         ]
     },
     "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
-        "PlacePrice": 1000,
-        "Max": 3,
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1847,28 +1847,28 @@
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 100
+                "Farm": 300
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 200
+                "Farm": 700
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 400
+                "Farm": 800
             },
             {
                 "Price": 3000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 600
+                "Farm": 1500
             }
         ]
     },
@@ -1965,8 +1965,8 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
-        "PlacePrice": 2000,
-        "Max": 2,
+        "PlacePrice": 800,
+        "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
         "hitboxOffset": {
             "X": 0,
@@ -1979,28 +1979,28 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.8
+                "Slow": 0.5
             },
             {
-                "Price": 2400,
+                "Price": 1000,
                 "Range": 17,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.7
+                "Slow": 0.4
             },
             {
-                "Price": 3000,
+                "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.6
+                "Slow": 0.4
             },
             {
-                "Price": 4000,
+                "Price": 2000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.5
+                "Slow": 0.35
             }
         ]
     },
@@ -2008,7 +2008,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18363546528",
         "Rarity": "Secret",
-        "PlacePrice": 35000,
+        "PlacePrice": 6000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2018,27 +2018,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 24000,
+                "Range": 15,
+                "Damage": 1000,
                 "Cooldown": 2
             },
             {
-                "Price": 40000,
+                "Price": 8000,
                 "Range": 28,
-                "Damage": 27000,
+                "Damage": 1200,
                 "Cooldown": 2
             },
             {
-                "Price": 45000,
-                "Range": 30,
-                "Damage": 30000,
+                "Price": 10000,
+                "Range": 18,
+                "Damage": 1500,
                 "Cooldown": 2
             },
             {
-                "Price": 50000,
-                "Range": 32,
-                "Damage": 33000,
-                "Cooldown": 2
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 1.35
             }
         ]
     },
@@ -2174,8 +2174,8 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
-        "PlacePrice": 3500,
+        "Rarity": "Apex",
+        "PlacePrice": 2000,
         "Offset": 0.45,
         "Max": 4,
         "hitboxOffset": {
@@ -2211,10 +2211,10 @@
         ]
     },
    "Sniper Cupcake": {
-        "Type": "Single",
+        "Type": "Peirce",
         "Image": "rbxassetid://18364281117",
-        "Rarity": "Rare",
-        "PlacePrice": 800,
+        "Rarity": "Epic",
+        "PlacePrice": 650,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -2330,7 +2330,7 @@
                 "Price": 1200,
                 "Range": 28,
                 "Damage": 1200,
-                "Cooldown": 2,
+                "Cooldown": 1,
                 "Poison": 900,
                 "PoisonLength": 3
             }
