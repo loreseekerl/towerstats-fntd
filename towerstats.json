@@ -172,6 +172,44 @@
             }
         ]
     },
+    "Frostlord Foxy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://80032888430447",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 3
+            },
+            {
+                "Price": 8500,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 1250,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://73610842988344",
